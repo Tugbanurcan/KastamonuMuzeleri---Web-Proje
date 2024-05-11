@@ -1,5 +1,5 @@
-# KastamonuMuzeleri---Web-Proje
-Okul projesi için geliştirilmiştir.
+# KastamonuMuzeleri-Web-Proje
+Okul projesi için geliştirilmiştir :)
 
 ![1](https://github.com/Tugbanurcan/KastamonuMuzeleri-Web-Proje/blob/main/Images/1.png)
 
